@@ -1,0 +1,11 @@
+{
+  "name": "parcel-typescript-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kineo2k/parcel-typescript-boilerplate.git",
+  "author": "kineo2k <kineo2k@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.6.2"
+  }
+}
